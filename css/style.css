@@ -1,0 +1,30 @@
+.list{
+
+font-family: 'Courier New', Courier, monospace;
+color: rgb(21, 103, 211);
+
+}
+
+
+.heading{
+
+text-align: center;
+color: rgb(21, 103, 211);
+
+
+}
+
+
+a:visited{
+
+color: red;
+
+
+}
+
+a:hover{
+
+
+color:rebeccapurple ;
+
+}
