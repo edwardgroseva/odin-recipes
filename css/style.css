@@ -1,6 +1,6 @@
 .list{
 
-font-family: 'Courier New', Courier, monospace;
+margin-left: 20px;
 color: rgb(21, 103, 211);
 
 }
@@ -12,12 +12,13 @@ text-align: center;
 color: rgb(21, 103, 211);
 
 
+
 }
 
 
 a:visited{
 
-color: red;
+color: 0;
 
 
 }
@@ -37,8 +38,36 @@ color:rebeccapurple ;
     
     }
 
-    *{
+    
+.headingstyle{
 
-        color: rgb(21, 103, 211);  
+background-color: gray;
+width: 400px;
+margin: auto;
+padding: 1px;
+border-radius: 20px;
+}
 
-    }
+*{
+padding: 0;
+font-family: 'Courier New', Courier, monospace;
+box-sizing: border-box;
+
+}
+
+
+li{
+    margin: 10px;
+    font-size: 20px;
+
+}
+
+.listbox{
+ 
+    background-color: gray;
+    height: 200px;
+    width: 270px;
+    padding-top: 30px;
+    border-radius: 20px;
+
+}
