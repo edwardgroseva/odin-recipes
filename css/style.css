@@ -33,10 +33,10 @@ color:rebeccapurple ;
 .heading2{
 
     
-    color: rgb(21, 103, 211);
+color: rgb(21, 103, 211);
     
     
-    }
+}
 
     
 .headingstyle{
@@ -69,5 +69,37 @@ li{
     width: 270px;
     padding-top: 30px;
     border-radius: 20px;
+
+}
+
+.sublist1{
+
+
+
+
+}
+
+.heading2{
+
+background-color: gray;
+width: 200px;
+height: 38px;
+padding-top: 5px;
+padding-left: 5px;
+color: rgb(21, 103, 211);
+border-radius: 10px;
+
+}
+
+.heading3{
+
+    background-color: gray;
+    width: 300px;
+    height: 60px;
+    padding-top: 5px;
+    padding-left: 5px;
+    color: rgb(21, 103, 211);
+    border-radius: 10px;
+
 
 }
